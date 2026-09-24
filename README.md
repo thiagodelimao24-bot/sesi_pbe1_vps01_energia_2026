@@ -34,31 +34,31 @@ npm run dev
 
 * CREATE
 
-![Create](./prints/post.png)
+![Create](./impressões/post.png)
 
 * READ ALL
 
-![Read](./prints/get_todos.png)
+![Read](./impressões/get_todos.png)
 
 * BUSCAR POR ID
 
-![Find ID](./prints/get_id.png)
+![Find ID](./impressões/get_id.png)
 
 * BUSCAR POR EQUIPAMENTO
 
-![Find Equipamento](./prints/printsget_equipamento.png)
+![Find Equipamento](./impressões/printsget_equipamento.png)
 
 * BUSCAR POR LOCAL
 
-![Find Local](./prints/get_local.png)
+![Find Local](./impressões/get_local.png)
 
 * UPDATE
 
-![Update](./prints/colocar.png)
+![Update](./impressões/colocar.png)
 
 * DELETE
 
-![Delete](./prints/excluir.png)
+![Delete](./impressões/excluir.png)
 
 ---
 
@@ -66,8 +66,8 @@ npm run dev
 
 * Formulário:
 
-![Formulário](./prints/web.png)
+![Formulário](./impressões/web.png)
 
 * Resposta:
 
-![Resposta](./prints/envio.png)
+![Resposta](./impressões/envio.png)
