@@ -1,6 +1,6 @@
 # Consumo de Energia Back-end
 
-Exemplo simples de back-end com mockup de dados JSON e funcionalidades CRUD para rastreamento de consumo e desperdício de energia.
+Exemplo simples de back-end para controle de consumo de energia, utilizando dados JSON e funcionalidades CRUD padrão.
 
 ---
 
@@ -9,7 +9,7 @@ Exemplo simples de back-end com mockup de dados JSON e funcionalidades CRUD para
 * **Node.js**
 * **JavaScript**
 * **Express**
-* **CORS**
+* **Cors**
 * **VsCode**
 * **VsCode Thunder Client**
 
@@ -54,20 +54,20 @@ npm run dev
 
 * UPDATE
 
-![Update](./prints/put.png)
+![Update](./prints/colocar.png)
 
 * DELETE
 
-![Delete](./prints/delete.png)
+![Delete](./prints/excluir.png)
 
 ---
 
 ## Cliente
 
-* Formulário
+* Formulário:
 
 ![Formulário](./prints/web.png)
 
 * Resposta:
 
-![Formulário](./prints/envio.png)
+![Resposta](./prints/envio.png)
